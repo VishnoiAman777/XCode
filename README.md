@@ -1,5 +1,8 @@
 # AI Code Completion Project
 
+To view the demonstration video, please click [here](videos/screen-capture.webm).
+
+
 This project utilizes AI models for code completion with a backend running on FastAPI. The code completions are powered by Language Model (LLM) optimized via OpenVINO.
 
 ## Running the Project
